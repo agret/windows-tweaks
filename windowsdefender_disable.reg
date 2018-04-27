@@ -25,6 +25,7 @@ Windows Registry Editor Version 5.00
 "DontReportInfectionInformation"=dword:00000001
 
 [HKEY_LOCALMACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
+"DisableAntiVirus"=dword:00000001
 "DisableAntiSpyware"=dword:00000001
 
 [HKEY_LOCALMACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet]
